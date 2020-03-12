@@ -27,14 +27,13 @@ psqlTable.write.format("jdbc").option("url", "jdbc:postgresql://54.38.113.190:54
 //dataframe
 spark.sql("use default")
 val psqlTable = spark.sql("select * from companies2")
-//create properties object
+//properties
 val prop = new java.util.Properties
 prop.setProperty("driver", "org.postgresql.Driver")
 prop.setProperty("user", "dbmaster")
 prop.setProperty("password", "WrxI6WrPJF") 
-//jdbc mysql url - destination database is named "data"
 val url = "jdbc:postgresql://54.38.113.190:5432/daas_ads"
-//destination database table 
+//table 
 val table = "sparktest2"
-//write data from spark dataframe to database and exist table
+//write
 psqlTable.write.mode("append").jdbc(url, table, prop)
