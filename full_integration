@@ -1,4 +1,4 @@
-#zeppelin notebook - integracion completa 
+#zeppelin notebook - integración completa 
 
 %spark
 //IMPORTAMOS SPARK Y FUNCTIOS
