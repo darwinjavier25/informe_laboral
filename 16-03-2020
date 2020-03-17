@@ -1,0 +1,15 @@
+16/03/2020
+
+Volcado tablas industry, billings, invitation_codes y payments en postgres => 1:00 h
+
+Call con Juan => 30 min.
+
+Gráfico de retrolaimentación en draw.io => 2:00 h
+
+Aplicación retroalimentación en tabla invitation_codes => 1:30 h
+
+Filtrado y casteo de campos tabla companies en postgres => 1:00 h
+
+Filtrado y casteo de campos tabla users en postgres => 1:00 h
+
+Filtrado y casteo de campos tablas: industry, billings y payments en postgres => 1:00 h
