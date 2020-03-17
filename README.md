@@ -1,4 +1,4 @@
-# informe_laboral
+# TABLA RESUMEN
 
 | fecha | tarea | horas | herramienta |
 | --- | --- | --- | --- |
