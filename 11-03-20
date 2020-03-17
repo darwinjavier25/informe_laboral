@@ -1,0 +1,17 @@
+11/03/2020
+
+Spark + Postgres first integration => 2:00 h
+
+Call con Juan => 30 min
+
+Creación tabla companies :
+
+Testeo con parquet y hive => 1:00 h   
+
+Documentación con spark => 1:00 h
+
+Volcado de datos en hive => 30 min
+
+Volcado de datos en postgres => 2:00 h
+
+Comprobación del flujo => 1:00 h 
