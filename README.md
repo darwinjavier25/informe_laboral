@@ -8,3 +8,6 @@
 | 13/03/20 | desarrollo de código para integración de tabla users | 8 | Zeppelin + spark + hive |
 | 16/03/20 | documentación de retrolaimentación en draw.io | 2 | draw.io |
 | 16/03/20 | Integración de tablas en postgres | 6 | Zeppelin + spark + hive + postgres |
+| 17/03/20 | Documentación con zeppelin | 1 | Zeppelin |
+| 17/03/20 | Corrección y testeo de tablas en accounts | 6 | Zeppelin + spark + hive + postgres |
+| 17/03/20 | Preparación flujo en ads | 1 | zeppelin + spark |
