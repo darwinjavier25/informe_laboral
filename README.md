@@ -11,3 +11,5 @@
 | 17/03/20 | Documentación con zeppelin | 1 | Zeppelin |
 | 17/03/20 | Corrección y testeo de tablas en accounts | 6 | Zeppelin + spark + hive + postgres |
 | 17/03/20 | Preparación flujo en ads | 1 | zeppelin + spark |
+| 18/03/20 | Documentación con zeppelin y comprobación de flujo | 2 | Zeppelin + spark + hive + postges |
+| 18/03/20 | Creación de flujo y tablas en de ads | 6 | Zeppelin + spark + hive + postges |
