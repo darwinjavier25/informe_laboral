@@ -1,0 +1,11 @@
+19/03/2020
+
+Verificación de flujo de las tablas de ads => 1 h
+
+Creación de ads_ads tanto en hive como en postgres => 2:00 h
+
+Creación de ads_campaign_criterions tanto en hive como en postgres => 2:00 h
+
+Creación de ads_campaign_extensions tanto en hive como en postgres => 2:00 h
+
+Creación de ads_campaigns tanto en hive como en postgres => 1:00 h
