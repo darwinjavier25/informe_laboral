@@ -18,4 +18,5 @@
 | 20/03/20 | Documentación con spark | 2 | spark |
 | 23/03/20 | Comprobación flujo de ads | 1 | Zeppelin + spark + hive + postges |
 | 23/03/20 | Documentación y configuración de hive | 3 | hive + hdfs |
+| 23/03/20 | Integración spark + hive | 4 | spark + hive + hdfs |
 
