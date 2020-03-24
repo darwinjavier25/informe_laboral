@@ -16,3 +16,6 @@
 | 19/03/20 | Creación de flujo y tablas en de ads | 8 | Zeppelin + spark + hive + postges |
 | 20/03/20 | Creación de flujo y tablas en de ads | 6 | Zeppelin + spark + hive + postges |
 | 20/03/20 | Documentación con spark | 2 | spark |
+| 23/03/20 | Comprobación flujo de ads | 1 | Zeppelin + spark + hive + postges |
+| 23/03/20 | Documentación y configuración de hive | 3 | hive + hdfs |
+
