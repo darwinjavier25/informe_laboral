@@ -19,4 +19,9 @@
 | 23/03/20 | Comprobación flujo de ads | 1 | Zeppelin + spark + hive + postges |
 | 23/03/20 | Documentación y configuración de hive | 3 | hive + hdfs |
 | 23/03/20 | Integración spark + hive | 4 | spark + hive + hdfs |
+| 24/03/20 | Integración hiveserver + beeline | 8 | hive + beeline |
+| 25/03/20 | Integración hiveserver + beeline | 8 | hive + beeline |
+| 26/03/20 | Instalación de hue | 8 | hive + hadoop + hue |
+| 27/03/20 | Integración de hue con hive y hadoop | 8 | hive + hue + hadoop |
+
 
